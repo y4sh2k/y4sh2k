@@ -20,7 +20,7 @@
 
 ### Connect with me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/kulkarni-yash/ "Connect via LinkedIn")
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kulkarni-yash/ "Connect via LinkedIn")
 
 [![HackTheBox Badge](https://img.shields.io/badge/-HackTheBox-494649?style=for-the-badge&logo=hackthebox)](https://app.hackthebox.com/users/288072 "Follow me on HackTheBox")
 
