@@ -5,7 +5,7 @@
 
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2023 Goals: Contribute more to Open Source projects and GitHub Commits
+- 🥅 2023 Goals: Contribute more & widen horizons
 - ⚡ Fun fact: I love to Explore, Hack, Gym!!
 
 ### Skills:
