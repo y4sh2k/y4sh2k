@@ -26,7 +26,6 @@
 
 [![Medium Badge](https://img.shields.io/badge/-Medium-1c1c1c?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@y4sh2k "Follow me on Medium")
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-4c68d7?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/k4pil.py/ "Connect via Instagram")
 <br />
 
 ### Support me:
