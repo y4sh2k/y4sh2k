@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2023 Goals: Contribute more & widen horizons
 - ⚡ Fun fact: I love to Explore, Hack & Football!
--  ∞  Bit of a Physics geek
+-  ∞   Bit of a Physics geek
 
 ### Skills:
 
