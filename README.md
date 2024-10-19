@@ -1,10 +1,10 @@
 ### Hi there 👋, I'm Yash Kulkarni!
 
 
-## I'm a Student, Penetration Tester, a bit of Developer & Learner!!<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
+## I'm a Student, Penetration Tester, an avid Learner!!<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2023 Goals: Contribute more & widen horizons
+- 🥅 2024 Goals: Contribute more & widen horizons
 - ⚡ Fun fact: I love to Explore, Hack & Football!
 -  ∞   Bit of a Physics geek
 
